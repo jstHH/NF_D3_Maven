@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NF_D3_Maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NF_D3_Maven_jar</output-path>
+    <root id="archive" name="NF_D3_Maven.jar">
+      <element id="module-output" name="NF_D3_Maven" />
+    </root>
+  </artifact>
+</component>
