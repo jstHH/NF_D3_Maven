@@ -17,7 +17,7 @@ class AlarmTest {
     }
     @Test
     void isTooMuch_when30_thenFalse() {
-        assertTrue(alarm.isTooMuch(30));
+        assertFalse(alarm.isTooMuch(30));
     }
 
     @Test
