@@ -2,18 +2,19 @@ package jst.helloworld;
 
 public class Alarm {
 
+
     public Alarm() {
     }
 
-    private int getGuests() {
+    public int getGuests() {
 
     }
 
-    private boolean isTooMuch(int count) {
+    public boolean isTooMuch(int count) {
 
     }
 
-    private void showCount(int count, boolean tooMuch) {
+    public String showCount(int count, boolean tooMuch) {
 
     }
 }
